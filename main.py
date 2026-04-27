@@ -1,4 +1,3 @@
-
 import asyncio
 import pandas as pd
 import numpy as np
@@ -22,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 TOKEN = "8426852609:AAEMc_7MnqS09e0moRP1tc1DfmXwgZJwAHg"
-TWELVE_KEY = "8426852609:AAEMc_7MnqS09e0moRP1tc1DfmXwgZJwAHg"
+TWELVE_KEY = "dfbecf637ca6480088d2b584eeaa2914"
 DB_NAME =  "xauusd_sniper.db"
 
 
