@@ -1,0 +1,11 @@
+python-telegram-bot==22.5
+pandas
+numpy
+joblib
+requests
+feedparser
+textblob
+scikit-learn
+scipy
+beautifulsoup4
+lxml
