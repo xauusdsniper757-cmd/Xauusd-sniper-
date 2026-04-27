@@ -9,3 +9,4 @@ scikit-learn
 scipy
 beautifulsoup4
 lxml
+matplotlib
